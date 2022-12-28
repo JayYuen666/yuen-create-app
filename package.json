@@ -1,7 +1,7 @@
 {
-	"name": "yuen-cli",
+	"name": "yuen-create-app",
 	"version": "0.0.1",
-	"description": "yuen-cli",
+	"description": "yuen-create-app",
 	"main": "cli.js",
 	"bin": {
 		"yuen": "./bin/cli.js"
@@ -14,7 +14,7 @@
 		"lib"
 	],
 	"keywords": [
-		"yuen-cli",
+		"yuen-create-app",
 		"yuen",
 		"脚手架"
 	],
