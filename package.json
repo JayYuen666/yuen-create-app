@@ -4,7 +4,7 @@
 	"description": "yuen-create-app",
 	"main": "cli.js",
 	"bin": {
-		"yuen": "./bin/cli.js"
+		"yuen-create-app": "./bin/cli.js"
 	},
 	"scripts": {
 		"test": "echo \"Error: no test specified\" && exit 1"
