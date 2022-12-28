@@ -1,6 +1,6 @@
 {
 	"name": "yuen-create-app",
-	"version": "0.0.2",
+	"version": "0.0.3",
 	"description": "yuen-create-app",
 	"main": "cli.js",
 	"bin": {
