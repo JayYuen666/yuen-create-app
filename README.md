@@ -14,7 +14,7 @@ yarn global add yuen-create-app
 
 ## Create a project
 ```bash
-yuen create my-project
+yuen-cli create my-project
 ```
 
 ## License
